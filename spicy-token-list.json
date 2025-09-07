@@ -1,0 +1,19 @@
+{
+  "name": "Spicy Token List",
+  "timestamp": "2025-09-06T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x522b00495662d2a0e9047ae04a3ebff3221b59b8",
+      "name": "Spicy Coin",
+      "symbol": "SPICY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/logan1738/spicycoin/refs/heads/main/spicycoin.png"
+    }
+  ]
+}
